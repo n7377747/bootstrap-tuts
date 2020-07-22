@@ -60,4 +60,8 @@ body{
     min-height:300px
 }
 
-
+#carousel-pause{
+    right:0px;
+    position:absolute;
+    bottom:0px;
+}
